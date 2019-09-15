@@ -6,3 +6,5 @@ this is a test project
 - build the project
 - ci/cd on jenkins
 - deploy using apache_tomcat web server
+
+- edited by tester
